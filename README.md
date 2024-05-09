@@ -1,4 +1,4 @@
-#Trip Planner app
+# Trip Planner app
 The application Trip Planner is a tool that helps users to manage their trips. You can create a trip and set a budget for it. You can create itinerary items for a trip. You can not only track the cost of all itinerary items but also see how much activities you have planned for each day of the trip. App should help to see the total cost the trip and show how much you are over or under the budget.
 
 We'll be using # React + Vite. You'll need Node.js installed for the npm command line tool.
